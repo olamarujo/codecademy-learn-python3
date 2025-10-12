@@ -105,8 +105,7 @@ Learn-Python/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/olamarujo/learn-python.git
-   cd learn-python
+   git clone https://github.com/olamarujo/codecademy-learn-python3
    
 2. Execute any Jupyter Notebook File
 
