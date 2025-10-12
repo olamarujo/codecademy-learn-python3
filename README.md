@@ -29,6 +29,7 @@ This repository contains pratical code exercises in Python that aproaches:
 ---
 
 ## 📂 Estrutura de Pastas
+```
 Learn-Python/
 ├── 1- Hello World
 │   ├── Block Letters
@@ -98,6 +99,7 @@ Learn-Python/
 │   │   └── Basta Fazoolin'.ipynb
 │   └── Learn Python 3_ Classes Cheatsheet _ Codecademy.pdf
 └── README.md
+```
 
 ## ▶️ How to execute
 
